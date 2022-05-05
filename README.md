@@ -8,3 +8,4 @@ Over winter break I wanted to write a program that checks all the md5sums of fil
 
 ## Usage: 
 Compile(I use gcc to) then run blank to perform on current directory or input a directory to perform on it
+If there is a compiler error, please take some time to appreciate the code. I am working to fix it but my CPP is rusty
